@@ -1,9 +1,16 @@
 # TelegramCryptoBot
-
-## Telegram бот использующий API CoinMarcetCap.
+  
+## Описание:  
+Telegram бот использующий API CoinMarcetCap.  
 Умеет:  
   Выводить информацию о криптовалюте.  
   Выводить курс монет.  
+  
+##Библиотеки:
+```
+telebot
+requests
+```
 
 ## Запуск:  
   Найти строку ```TKEN = ''``` вписать туда ключ TG бота.  
